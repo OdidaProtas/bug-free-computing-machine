@@ -1,0 +1,6 @@
+{
+  "appId": "com.protusconsuling.tech",
+  "appName": "dreamers",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
